@@ -10,6 +10,9 @@ Leia 2 valores inteiros e armazene-os nas variáveis A e B. Efetue a soma de A e
 
 ## Saída
 ```md
+Imprima a mensagem "X = " (letra X maiúscula) seguido pelo valor da variável X e pelo final de linha.
+```
+```md
     Entrada 1                      Saída 1
     10                             X = 19
     9 
